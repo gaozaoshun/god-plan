@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-dao/common-dao.iml" filepath="$PROJECT_DIR$/common-dao/common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-service/common-service.iml" filepath="$PROJECT_DIR$/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-thrids/common-thrids.iml" filepath="$PROJECT_DIR$/common-thrids/common-thrids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/god-cms/god-cms.iml" filepath="$PROJECT_DIR$/god-cms/god-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/god-plan.iml" filepath="$PROJECT_DIR$/god-plan.iml" />
+    </modules>
+  </component>
+</project>
